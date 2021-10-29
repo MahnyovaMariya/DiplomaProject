@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Девяткино</string>
+		<string>Гражданский проспект</string>
+		<string>Академическая</string>
+		<string>Политехническая</string>
+		<string>Площадь Мужества</string>
+		<string>Лесная</string>
+		<string>Выборгская</string>
+		<string>Площадь Ленина</string>
+		<string>Чернышевская</string>
+		<string>Площадь Восстания</string>
+		<string>       </string>
+		<string>Владимирская</string>
+		<string>Пушкинская</string>
+		<string>Технологический институт (к)</string>
+		<string>Балтийская</string>
+		<string>Нарвская</string>
+		<string>      </string>
+		<string>Кировский завод</string>
+		<string>Автово</string>
+		<string>Ленинский проспект</string>
+		<string>Проспект Ветеранов</string>
+	</array>
+	<array>
+		<string>{592, 80}</string>
+		<string>{592, 130}</string>
+		<string>{592, 180}</string>
+		<string>{592, 230}</string>
+		<string>{592, 280}</string>
+		<string>{592, 330}</string>
+		<string>{592, 377}</string>
+		<string>{592, 425}</string>
+		<string>{592, 470}</string>
+		<string>{592, 515}</string>
+		<string>{0, 1340}</string>
+		<string>{553, 660}</string>
+		<string>{365, 715}</string>
+		<string>{128, 800}</string>
+		<string>{218, 855}</string>
+		<string>{155, 935}</string>
+		<string>{47, 985}</string>
+		<string>{47, 1010}</string>
+		<string>{135, 1060}</string>
+		<string>{20, 1110}</string>
+		<string>{25, 1170}</string>
+	</array>
+	<array>
+		<string>{572, 100}</string>
+		<string>{572, 145}</string>
+		<string>{572, 188}</string>
+		<string>{572, 240}</string>
+		<string>{572, 287}</string>
+		<string>{572, 334}</string>
+		<string>{572, 381}</string>
+		<string>{572, 428}</string>
+		<string>{572, 475}</string>
+		<string>{572, 522}</string>
+		<string>{572, 634}</string>
+		<string>{552.5, 645}</string>
+		<string>{476, 722}</string>
+		<string>{393, 804}</string>
+		<string>{332, 864}</string>
+		<string>{253, 943}</string>
+		<string>{212, 990}</string>
+		<string>{212, 1020}</string>
+		<string>{212, 1070}</string>
+		<string>{212, 1120}</string>
+		<string>{212, 1170}</string>
+	</array>
+	<array>
+		<string>{577, 105}</string>
+		<string>{577, 150}</string>
+		<string>{577, 195}</string>
+		<string>{577, 245}</string>
+		<string>{577, 293}</string>
+		<string>{577, 340}</string>
+		<string>{577, 385}</string>
+		<string>{577, 433}</string>
+		<string>{577, 480}</string>
+		<string>{577, 527}</string>
+		<string>{577, 632}</string>
+		<string>{557, 650}</string>
+		<string>{482, 727}</string>
+		<string>{398, 809}</string>
+		<string>{337, 870}</string>
+		<string>{257, 950}</string>
+		<string>{217, 990}</string>
+		<string>{217, 1025}</string>
+		<string>{217, 1075}</string>
+		<string>{217, 1125}</string>
+		<string>{217, 1175}</string>
+	</array>
+	<array>
+		<string>3</string>
+		<string>3</string>
+		<string>2</string>
+		<string>3</string>
+		<string>3</string>
+		<string>3</string>
+		<string>2</string>
+		<string>3</string>
+		<string>2</string>
+		<string>2</string>
+		<string>0</string>
+		<string>2</string>
+		<string>5</string>
+		<string>2</string>
+		<string>3</string>
+		<string>4</string>
+		<string>0</string>
+		<string>2</string>
+		<string>3</string>
+		<string>2</string>
+	</array>
+</array>
+</plist>

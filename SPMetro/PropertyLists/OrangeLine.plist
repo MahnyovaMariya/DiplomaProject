@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Спасская</string>
+		<string>Достоевская</string>
+		<string>Лиговский проспект</string>
+		<string>Площадь Александра Невского (о)</string>
+		<string>   </string>
+		<string>Новочеркасская</string>
+		<string>Ладожская</string>
+		<string>Проспект Большевиков</string>
+		<string>Улица Дыбенко</string>
+	</array>
+	<array>
+		<string>{447, 635}</string>
+		<string>{587, 600}</string>
+		<string>{580, 635}</string>
+		<string>{760, 635}</string>
+		<string>{930, 615}</string>
+		<string>{930, 685}</string>
+		<string>{930, 735}</string>
+		<string>{930, 785}</string>
+		<string>{930, 850}</string>
+	</array>
+	<array>
+		<string>{464, 625}</string>
+		<string>{572, 625}</string>
+		<string>{642, 625}</string>
+		<string>{742, 625}</string>
+		<string>{912, 624}</string>
+		<string>{912, 700}</string>
+		<string>{912, 750}</string>
+		<string>{912, 800}</string>
+		<string>{912, 850}</string>
+	</array>
+	<array>
+		<string>{470, 630}</string>
+		<string>{577, 630}</string>
+		<string>{647, 630}</string>
+		<string>{747, 630}</string>
+		<string>{917, 630}</string>
+		<string>{917, 705}</string>
+		<string>{917, 755}</string>
+		<string>{917, 805}</string>
+		<string>{917, 855}</string>
+	</array>
+	<array>
+		<string>3</string>
+		<string>2</string>
+		<string>2</string>
+		<string>3</string>
+		<string>0</string>
+		<string>3</string>
+		<string>3</string>
+		<string>2</string>
+	</array>
+</array>
+</plist>

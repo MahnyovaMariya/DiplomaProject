@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Парнас</string>
+		<string>Проспект Просвещения</string>
+		<string>Озерки</string>
+		<string>Удельная</string>
+		<string>Пионерская</string>
+		<string>Чёрная речка</string>
+		<string>Петроградская</string>
+		<string>Горьковская</string>
+		<string>Невский проспект</string>
+		<string>Сенная площадь</string>
+		<string>Технологический институт (с)</string>
+		<string>Фрунзенская</string>
+		<string>Московские ворота</string>
+		<string>Электросила</string>
+		<string>Парк Победы</string>
+		<string>Московская</string>
+		<string>Звёздная</string>
+		<string>Купчино</string>
+	</array>
+	<array>
+		<string>{432,80}</string>
+		<string>{195, 140}</string>
+		<string>{432, 185}</string>
+		<string>{432, 235}</string>
+		<string>{432, 285}</string>
+		<string>{432, 335}</string>
+		<string>{432, 385}</string>
+		<string>{432, 445}</string>
+		<string>{420, 500}</string>
+		<string>{440, 580}</string>
+		<string>{148, 765}</string>
+		<string>{432, 825}</string>
+		<string>{432, 870}</string>
+		<string>{432, 925}</string>
+		<string>{432, 975}</string>
+		<string>{432, 1025}</string>
+		<string>{432, 1075}</string>
+		<string>{432, 1140}</string>
+	</array>
+	<array>
+		<string>{412,100}</string>
+		<string>{412, 150}</string>
+		<string>{412, 200}</string>
+		<string>{412, 250}</string>
+		<string>{412, 300}</string>
+		<string>{412, 350}</string>
+		<string>{412, 400}</string>
+		<string>{412, 460}</string>
+		<string>{412, 522}</string>
+		<string>{412, 586}</string>
+		<string>{412, 786}</string>
+		<string>{412, 840}</string>
+		<string>{412, 890}</string>
+		<string>{412, 940}</string>
+		<string>{412, 990}</string>
+		<string>{412, 1040}</string>
+		<string>{412, 1090}</string>
+		<string>{412, 1140}</string>
+	</array>
+	<array>
+		<string>{417, 105}</string>
+		<string>{417, 155}</string>
+		<string>{417, 205}</string>
+		<string>{417, 255}</string>
+		<string>{417, 305}</string>
+		<string>{417, 355}</string>
+		<string>{417, 405}</string>
+		<string>{417, 465}</string>
+		<string>{417, 530}</string>
+		<string>{417, 589}</string>
+		<string>{417, 790}</string>
+		<string>{417, 845}</string>
+		<string>{417, 895}</string>
+		<string>{417, 945}</string>
+		<string>{417, 995}</string>
+		<string>{417, 1045}</string>
+		<string>{417, 1095}</string>
+		<string>{417, 1145}</string>
+	</array>
+	<array>
+		<string>3</string>
+		<string>2</string>
+		<string>3</string>
+		<string>3</string>
+		<string>3</string>
+		<string>4</string>
+		<string>2</string>
+		<string>4</string>
+		<string>2</string>
+		<string>3</string>
+		<string>2</string>
+		<string>2</string>
+		<string>2</string>
+		<string>2</string>
+		<string>3</string>
+		<string>4</string>
+		<string>3</string>
+	</array>
+</array>
+</plist>

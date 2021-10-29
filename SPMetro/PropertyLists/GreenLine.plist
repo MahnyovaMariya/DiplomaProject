@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Беговая</string>
+		<string>Новокрестовская</string>
+		<string>Приморская</string>
+		<string> </string>
+		<string>Василеостровская</string>
+		<string>Гостиный двор</string>
+		<string>Маяковская</string>
+		<string>  </string>
+		<string>Площадь Александра Невского (з)</string>
+		<string>Елизаровская</string>
+		<string>Ломоносовская</string>
+		<string>Пролетарская</string>
+		<string>Обухово</string>
+		<string>Рыбацкое</string>
+	</array>
+	<array>
+		<string>{15, 375}</string>
+		<string>{105, 440}</string>
+		<string>{110, 510}</string>
+		<string>{50, 550}</string>
+		<string>{110, 555}</string>
+		<string>{427, 555}</string>
+		<string>{587, 555}</string>
+		<string>{757, 555}</string>
+		<string>{757, 595}</string>
+		<string>{760, 775}</string>
+		<string>{760, 825}</string>
+		<string>{760, 875}</string>
+		<string>{760, 925}</string>
+		<string>{760, 990}</string>
+	</array>
+	<array>
+		<string>{92, 400}</string>
+		<string>{92, 450}</string>
+		<string>{92, 520}</string>
+		<string>{92, 549}</string>
+		<string>{162, 545}</string>
+		<string>{412, 545}</string>
+		<string>{572, 545}</string>
+		<string>{742, 549}</string>
+		<string>{742, 602}</string>
+		<string>{742, 790}</string>
+		<string>{742, 840}</string>
+		<string>{742, 890}</string>
+		<string>{742, 940}</string>
+		<string>{742, 990}</string>
+	</array>
+	<array>
+		<string>{97, 405}</string>
+		<string>{97, 455}</string>
+		<string>{97, 525}</string>
+		<string>{97, 550}</string>
+		<string>{168, 550}</string>
+		<string>{417, 550}</string>
+		<string>{577, 550}</string>
+		<string>{747, 550}</string>
+		<string>{747, 607}</string>
+		<string>{747, 795}</string>
+		<string>{747, 845}</string>
+		<string>{747, 895}</string>
+		<string>{747, 945}</string>
+		<string>{747, 995}</string>
+	</array>
+	<array>
+		<string>4</string>
+		<string>4</string>
+		<string>4</string>
+		<string>0</string>
+		<string>4</string>
+		<string>3</string>
+		<string>3</string>
+		<string>0</string>
+		<string>5</string>
+		<string>3</string>
+		<string>3</string>
+		<string>3</string>
+		<string>4</string>
+	</array>
+</array>
+</plist>
