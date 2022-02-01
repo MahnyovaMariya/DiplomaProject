@@ -10,8 +10,8 @@
 
 # Скриншоты
 
-<img src="https://github.com/MahnyovaMariya/DiplomaProject/blob/main/Simulator%20Screen%20Shot%2001.png" alt="Saint Petersburg Subway 1" style="width:500px;height:600px;"> &nbsp;&nbsp;&nbsp; <img src="https://github.com/MahnyovaMariya/DiplomaProject/blob/main/Simulator%20Screen%20Shot%2002.png" alt="Saint Petersburg Subway 1" style="width:500px;height:600px;">
+<img src="https://github.com/MahnyovaMariya/DiplomaProject/blob/main/Simulator%20Screen%20Shot%2001.png" alt="Saint Petersburg Subway 1" style="width:500px;height:600px;"> &nbsp; <img src="https://github.com/MahnyovaMariya/DiplomaProject/blob/main/Simulator%20Screen%20Shot%2002.png" alt="Saint Petersburg Subway 1" style="width:500px;height:600px;">
 
 ***
 
-<img src="https://github.com/MahnyovaMariya/DiplomaProject/blob/main/Simulator%20Screen%20Shot%2003.png" alt="Saint Petersburg Subway 1" style="width:500px;height:600px;"> &nbsp;&nbsp;&nbsp; <img src="https://github.com/MahnyovaMariya/DiplomaProject/blob/main/Simulator%20Screen%20Shot%2004.png" alt="Saint Petersburg Subway 1" style="width:500px;height:600px;">
+<img src="https://github.com/MahnyovaMariya/DiplomaProject/blob/main/Simulator%20Screen%20Shot%2003.png" alt="Saint Petersburg Subway 1" style="width:500px;height:600px;"> &nbsp; <img src="https://github.com/MahnyovaMariya/DiplomaProject/blob/main/Simulator%20Screen%20Shot%2004.png" alt="Saint Petersburg Subway 1" style="width:500px;height:600px;">
