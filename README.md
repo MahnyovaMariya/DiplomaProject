@@ -10,7 +10,7 @@
 
 # Скриншоты
 
-<img align="middle" src="https://github.com/MahnyovaMariya/DiplomaProject/blob/main/Simulator%20Screen%20Shot%2001.png" alt="Saint Petersburg Subway 1" style="width:500px;height:600px;"> 
+<img align="center" src="https://github.com/MahnyovaMariya/DiplomaProject/blob/main/Simulator%20Screen%20Shot%2001.png" alt="Saint Petersburg Subway 1" style="width:500px;height:600px;"> 
 
 ***
 
